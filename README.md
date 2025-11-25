@@ -42,7 +42,7 @@ If a user asks a question unrelated to movies (e.g., historical facts or cooking
 <img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/c3d44c81-72ce-4e01-91a1-532fcb63c95e" />
 
 ## Acknowledgment
-I would like to express my sincere gratitude to Lovely Professional University for providing the academic platform and necessary resources to complete this project.
+I would like to express my sincere gratitude to Lovely Professional University for providing the academic platform and necessary resources to complete this project.<br>
 A special thanks to [Nagadevara Satya Sudheer](https://github.com/sudheernaidu42) for his dedication, technical support, and collaboration throughout the development of CineCritic AI.
 
 
